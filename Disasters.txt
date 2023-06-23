@@ -279,3 +279,5 @@ Anime
 Killer Clown
 Diary Of A Wimpy Kid
 Manchild
+Pursuit
+Deadeye
